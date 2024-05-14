@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/matthew-mcateer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Matthew+McAteer" alt="Pragalbh Mandaokar" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Pragalbh+Mandaokar" alt="Pragalbh Mandaokar" /></a>
 </p>
 
 <p align="center">
