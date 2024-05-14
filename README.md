@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/matthew-mcateer">
+  <a href="https://github.com/Pragalbhmandaokar">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Pragalbh+Mandaokar" alt="Pragalbh Mandaokar" /></a>
 </p>
 
@@ -8,40 +8,40 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=FF923D&center=true&width=835&lines=Machine+Learning+Scientist;Computer+Vision+%7C+Natural+Language+Processing;AI+Interpretability+%7C+Reinforcement+Learning;AI+Safety+%7C+Privacy+preserving+ML" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=matthew-mcateer&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Pragalbhmandaokar&color=blueviolet)
 
 ### Hi there 👋
 
-My name is Matthew, I'm a Machine Learning Engineer. I like building, writing, and understanding how things work.
+My name is Pragalbh, I'm a Machine Learning Engineer. I like Coding, building, writing, and understanding how things work.
 
 You can follow me on:
 
-- [Twitter](https://twitter.com/matthewmcateer0) 🐦
-- [my blog](https://matthewmcateer.me/) 💻
-- [Here on GitHub](https://github.com/matthew-mcateer) 🐙
+
+- [my blog](https://pragalbhmandaokar.me/) 💻
+- [Here on GitHub](https://github.com/Pragalbhmandaokar) 🐙
 
 #### GitHub Stats / Top Languages
 
-<a href="https://github.com/matthew-mcateer/github-readme-stats">
+<a href="https://github.com/Pragalbhmandaokar/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mcateer&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pragalbhmandaokar&show_icons=true&theme=dracula" />
 </a>
 
-<a href="https://github.com/matthew-mcateer/github-readme-stats">
+<a href="https://github.com/Pragalbhmandaokar/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&hide=html,css,jupyter%20notebook,procfile&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragalbhmandaokar&hide=html,css,jupyter%20notebook,procfile&layout=compact&theme=dracula" />
 </a>
 
 #### My top open-source repos
 
-<a href="https://github.com/matthew-mcateer/practicing_trustworthy_machine_learning">
+<a href="https://github.com/Pragalbhmandaokar/practicing_trustworthy_machine_learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthew-mcateer&repo=practicing_trustworthy_machine_learning&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pragalbhmandaokar&repo=practicing_trustworthy_machine_learning&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/matthew-mcateer/rescuerepo">
+<a href="https://github.com/Pragalbhmandaokar/rescuerepo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthew-mcateer&repo=rescuerepo&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pragalbhmandaokar&repo=rescuerepo&theme=tokyonight" />
 </a>
 
 #### Top repos I've contributed to
