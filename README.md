@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/matthew-mcateer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Matthew+McAteer" alt="Matthew McAteer" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Matthew+McAteer" alt="Pragalbh Mandaokar" /></a>
 </p>
 
 <p align="center">
-  <a href="https://matthewmcateer.me">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=FF923D&center=true&width=835&lines=Machine+Learning+Scientist;Computer+Vision+%7C+Natural+Language+Processing;AI+Interpretability+%7C+Reinforcement+Learning;AI+Safety+%7C+Privacy+preserving+ML" /></a>
 </p>
 
