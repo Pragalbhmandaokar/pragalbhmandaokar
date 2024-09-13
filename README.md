@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-My name is Pragalbh, I'm a Machine Learning Engineer. I like Coding, building, writing, and understanding how things work.
+My name is Pragalbh, I'm a Full Stack Developer. I like Coding, building, writing, and understanding how things work.
 
 You can follow me on:
 
