@@ -32,17 +32,7 @@ You can follow me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragalbhmandaokar&hide=html,css,jupyter%20notebook,procfile&layout=compact&theme=dracula" />
 </a>
 
-#### My top open-source repos
 
-<a href="https://github.com/Pragalbhmandaokar/practicing_trustworthy_machine_learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pragalbhmandaokar&repo=practicing_trustworthy_machine_learning&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Pragalbhmandaokar/rescuerepo">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pragalbhmandaokar&repo=rescuerepo&theme=tokyonight" />
-</a>
 
 #### Top repos I've contributed to
 
